@@ -16,3 +16,11 @@ Simple CNN classifier for the CIFAR-10 Dataset.
 
 ## Accuracy
 Test Acc: 0.8626
+
+## Library Versions
+Python: 3.12.7
+
+pytorch: 2.5.1
+ 
+pytorch-cuda: 12.4
+
